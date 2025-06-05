@@ -34,3 +34,5 @@ It is best practice to create a dedicated Python environment to ensure no issues
 
     `pip install -r requirements.txt`   (Install all required packages as listed in requirements.txt)
 - Now, you can run `pulse.py`, `mission_control.py`, `mission_control_with_plot.py` as you wish. I recommend opening them in your favorite IDE (making sure your conda env is activated) to modify the experiment parameters.
+
+I need to add the correct USB DLL directly in the repo to avoid any issues. 
