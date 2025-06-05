@@ -2,7 +2,7 @@
 
 The OpBox is a compact and easy-to-setup ultrasound test device that combines a pulser and a oscilloscope.
 
-There is a webapp to use the OpBox remotely, when it's connected to its Raspberry Pi (see [Smush OpBox](https://gogs.ceec.echem.io/matthieu/smush_opbox)).  
+There is a webapp to use the OpBox remotely, when it's connected to its Raspberry Pi (see [Smush OpBox](https://github.com/matthieuD01/web_opbox.git)).  
 However, you might need to use the OpBox on your local computer, via USB, and record experiments with it. That's what this repo is for.
 
 ## How to use
@@ -22,7 +22,7 @@ It is best practice to create a dedicated Python environment to ensure no issues
 - Open cmd or whichever CLI you use, and navigate to the folder you want to setup this repo:
 
     `cd path/to/where/repo/will/install`
-- Do 'git clone https://gogs.ceec.echem.io/matthieu/py_opbox.git'
+- Do 'git clone https://github.com/matthieuD01/py_opbox'
 - Navigate inside the folder:
 
     `cd py_opbox`

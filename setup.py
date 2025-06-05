@@ -11,7 +11,7 @@ setup(
     description='Python library to operate the OpBox locally and save contents to database.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://gogs.ceec.echem.io/matthieu/py_opbox.git',
+    url='https://github.com/matthieuD01/py_opbox',
     packages=find_packages(),
     install_requires=requirements,
     classifiers=[
