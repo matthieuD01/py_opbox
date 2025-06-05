@@ -1,0 +1,14 @@
+acoustic_data/
+__pycache__/
+__pycache__/OpBox_21_Registers.cpython-311.pyc
+__pycache__/opbox_visa_class.cpython-311.pyc
+__pycache__/opbox.cpython-311.pyc
+utils/__pycache__/__init__.cpython-313.pyc
+utils/__pycache__/OpBox_21_Registers.cpython-313.pyc
+utils/__pycache__/opbox_visa_class.cpython-313.pyc
+utils/__pycache__/opbox.cpython-313.pyc
+py_opbox/utils/__pycache__/__init__.cpython-311.pyc
+py_opbox/utils/__pycache__/OpBox_21_Registers.cpython-311.pyc
+py_opbox/utils/__pycache__/opbox_visa_class.cpython-311.pyc
+py_opbox/utils/__pycache__/opbox.cpython-311.pyc
+py_opbox/utils/__pycache__/OpBox_21_Registers.cpython-311.pyc
